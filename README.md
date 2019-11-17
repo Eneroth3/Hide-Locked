@@ -1,7 +1,9 @@
 # Eneroth Hide Locked
 
-his plugin allows you to hide an unhide entities, even if they are locked. This can be useful if you need to toggle visibility but don't want to accidentally move anything.
+Hide or unhide locked entities without first having to unlock them.
+This can be useful when you don't want to risk moving things around but still
+want to change the visibility.
 
-Activated from Context Menu > Hide/Unhinde (Despite Locked). In SketchUp 2016 and newer on Windows this entry appears just below the usual Hide/Unhide entry. For earlier versions and on Mac the entry is found somewhere near the bottom of the context menu.
+Activated from **Context Menu > Hide/Unhide (Despite locked)".
 
-Extension Warehouse: https://extensions.sketchup.com/en/content/eneroth-hideunhide-locked
+[GitHub repo](https://github.com/Eneroth3/Hide-Locked).
